@@ -1,6 +1,6 @@
 <?php
 // Chien.php
-namespace MonProjet\Animaux;
+namespace MonProjet\Models;
 
 class Chien {
     public string $nom;

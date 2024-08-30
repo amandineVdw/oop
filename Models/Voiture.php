@@ -1,6 +1,6 @@
 <?php
 // Voiture.php
-namespace MonProjet\Vehicules;
+namespace MonProjet\Models;
 
 class Voiture {
     public string $couleur;
