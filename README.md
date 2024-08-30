@@ -1,4 +1,4 @@
-Bien sûr ! Plongeons dans une introduction simple et accessible à la Programmation Orientée Objet (POO) en PHP. Nous allons explorer les concepts de base, comme les classes, les objets, les propriétés, les méthodes, les namespaces, et l’utilisation du mot-clé `use`.
+Plongeons dans une introduction simple et accessible à la Programmation Orientée Objet (POO) en PHP. Nous allons explorer les concepts de base, comme les classes, les objets, les propriétés, les méthodes, les namespaces, et l’utilisation du mot-clé `use`.
 
 ## Introduction à la Programmation Orientée Objet (POO) en PHP
 
